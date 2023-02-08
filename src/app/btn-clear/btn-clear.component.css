@@ -1,0 +1,21 @@
+.clear{
+    height: 80px;
+    width: 340px;
+    background-color: #ac0246;
+    color: white;
+    font-family: lato, sans-serif;
+    border: 3px solid white;
+    border-radius: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    margin: 10px auto;
+}
+.clear:hover{
+    background-color: #ebb000;
+    font-size: 60px;
+}
